@@ -8,6 +8,7 @@ tags:
   - "First"
   - "Welcome"
 description: "Welcome to my personal site"
+socialImage: "/headshot.jpg"
 ---
 Welcome to my personal site. It was a breeze to get this set up with Gatsby.
 
